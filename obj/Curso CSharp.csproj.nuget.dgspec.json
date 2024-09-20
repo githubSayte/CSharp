@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Desktop\\Renato\\GitHub\\Curso-C--master-New\\Curso CSharp.csproj": {}
+    "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\CSharp\\Curso CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Desktop\\Renato\\GitHub\\Curso-C--master-New\\Curso CSharp.csproj": {
+    "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\CSharp\\Curso CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Desktop\\Renato\\GitHub\\Curso-C--master-New\\Curso CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\CSharp\\Curso CSharp.csproj",
         "projectName": "Curso CSharp",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Desktop\\Renato\\GitHub\\Curso-C--master-New\\Curso CSharp.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Desktop\\Renato\\GitHub\\Curso-C--master-New\\obj\\",
+        "projectPath": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\CSharp\\Curso CSharp.csproj",
+        "packagesPath": "C:\\Users\\Aluno Noite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aluno Noite\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

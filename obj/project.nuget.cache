@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4k2hG70/RZo=",
+  "dgSpecHash": "1kuxlwJQMos=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\Desktop\\Renato\\GitHub\\Curso-C--master-New\\Curso CSharp.csproj",
+  "projectFilePath": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\CSharp\\Curso CSharp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Aluno Noite\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -31,7 +31,7 @@ namespace CSharp
         // Método principal da aplicação, responsável por gerenciar o fluxo do programa.
         static void Main(string[] args)
         {
-            Config config = CarregarConfig(caminhoConfig);
+          
             CarregarDados(caminhoComputadores, caminhoClientes, caminhoVendas);
 
             int opcao;
@@ -40,7 +40,7 @@ namespace CSharp
                 Console.Clear();
                 ExibirCabecalho("SISTEMA DE GERENCIAMENTO DE VENDAS DE COMPUTADORES E CADASTRO DE CLIENTES");
                 ExibirOpcoesMenu();
-                ExibirInformacoesExtras(config);
+                
 
                 Console.Write("Escolha uma opção: ");
                 if (!int.TryParse(Console.ReadLine(), out opcao))
@@ -85,7 +85,11 @@ namespace CSharp
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("╔════════════════════════════════════════════════════════════════════════════════════════════════╗");
-            Console.WriteLine($"║ {titulo.PadRight(87)} ║");
+            Console.WriteLine($"║ {titulo.PadRight(90)}     ║");
+            Console.WriteLine($"║ Autor: Renato Resende Monteiro                                                                 ║");
+            Console.WriteLine(value: $"║ Data da Última Atualização: {DateTime.Now,-30}                                     ║");
+            Console.WriteLine($"║ Versão do Sistema: 1.0                                                                         ║");
+            Console.WriteLine($"║ Data e Hora de Acesso: {DateTime.Now:dd/MM/yyyy HH:mm}                                                ║");
             Console.WriteLine("╚════════════════════════════════════════════════════════════════════════════════════════════════╝");
             Console.ForegroundColor = ConsoleColor.White;
         }
@@ -93,21 +97,16 @@ namespace CSharp
         // Método para exibir o menu de opções.
         static void ExibirOpcoesMenu()
         {
+            Console.WriteLine("╔════════════════════════════════════════════════════════════════════════════════════════════════╗");
             Console.WriteLine("║ 1. Gerenciar Estoque de Computadores                                                           ║");
             Console.WriteLine("║ 2. Gerenciar Cadastro de Clientes                                                              ║");
             Console.WriteLine("║ 3. Gerenciar Relatório de Vendas                                                               ║");
             Console.WriteLine("║ 0. Sair                                                                                        ║");
+            Console.WriteLine("╚════════════════════════════════════════════════════════════════════════════════════════════════╝");
+
         }
 
-        // Método para exibir informações adicionais no rodapé.
-        static void ExibirInformacoesExtras(Config config)
-        {
-            Console.WriteLine($"║ Autor: Renato Resende Monteiro                                                                 ║");
-            Console.WriteLine($"║ Data da Última Atualização: {config.DataUltimaAtualizacao,-30}                                     ║");
-            Console.WriteLine($"║ Versão do Sistema: {config.Versao,-42}                                  ║");
-            Console.WriteLine($"║ Data e Hora de Acesso: {DateTime.Now:dd/MM/yyyy HH:mm}                                                        ║");
-        }
-
+ 
         // Método responsável por carregar a configuração do sistema.
         static Config CarregarConfig(string caminho)
         {
