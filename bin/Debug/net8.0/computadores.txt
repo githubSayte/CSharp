@@ -1,0 +1,2 @@
+16/09/2024 10:45:28: Computador adicionado - Modelo: Dell XPS 13, Marca: Dell, Preço: R$ 1.200.000,00, Quantidade: 5
+16/09/2024 10:47:21: Computador adicionado - Modelo: MacBook Pro 16, Marca: Apple, Preço: R$ 2.000.000,00, Quantidade: 3

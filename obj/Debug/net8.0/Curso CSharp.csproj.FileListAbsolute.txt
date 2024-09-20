@@ -1,0 +1,64 @@
+C:\Users\Professor\Desktop\Curso C#\bin\Debug\net8.0\Curso CSharp.exe
+C:\Users\Professor\Desktop\Curso C#\bin\Debug\net8.0\Curso CSharp.deps.json
+C:\Users\Professor\Desktop\Curso C#\bin\Debug\net8.0\Curso CSharp.runtimeconfig.json
+C:\Users\Professor\Desktop\Curso C#\bin\Debug\net8.0\Curso CSharp.dll
+C:\Users\Professor\Desktop\Curso C#\bin\Debug\net8.0\Curso CSharp.pdb
+C:\Users\Professor\Desktop\Curso C#\obj\Debug\net8.0\Curso CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Desktop\Curso C#\obj\Debug\net8.0\Curso CSharp.AssemblyInfoInputs.cache
+C:\Users\Professor\Desktop\Curso C#\obj\Debug\net8.0\Curso CSharp.AssemblyInfo.cs
+C:\Users\Professor\Desktop\Curso C#\obj\Debug\net8.0\Curso CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\Curso C#\obj\Debug\net8.0\Curso CSharp.dll
+C:\Users\Professor\Desktop\Curso C#\obj\Debug\net8.0\refint\Curso CSharp.dll
+C:\Users\Professor\Desktop\Curso C#\obj\Debug\net8.0\Curso CSharp.pdb
+C:\Users\Professor\Desktop\Curso C#\obj\Debug\net8.0\Curso CSharp.genruntimeconfig.cache
+C:\Users\Professor\Desktop\Curso C#\obj\Debug\net8.0\ref\Curso CSharp.dll
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\bin\Debug\net8.0\Curso CSharp.exe
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\bin\Debug\net8.0\Curso CSharp.deps.json
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\bin\Debug\net8.0\Curso CSharp.runtimeconfig.json
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\bin\Debug\net8.0\Curso CSharp.dll
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\bin\Debug\net8.0\Curso CSharp.pdb
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\obj\Debug\net8.0\Curso CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\obj\Debug\net8.0\Curso CSharp.AssemblyInfoInputs.cache
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\obj\Debug\net8.0\Curso CSharp.AssemblyInfo.cs
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\obj\Debug\net8.0\Curso CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\obj\Debug\net8.0\Curso CSharp.dll
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\obj\Debug\net8.0\refint\Curso CSharp.dll
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\obj\Debug\net8.0\Curso CSharp.pdb
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\obj\Debug\net8.0\Curso CSharp.genruntimeconfig.cache
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\obj\Debug\net8.0\ref\Curso CSharp.dll
+C:\Users\Professor\Desktop\Conteudo do Curso Tecnico\Curso C#\obj\Debug\net8.0\Curso CSharp.sourcelink.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\Curso CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\Curso CSharp.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\Curso CSharp.AssemblyInfo.cs
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\Curso CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\Curso CSharp.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\refint\Curso CSharp.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\Curso CSharp.pdb
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\bin\Debug\net8.0\Curso CSharp.exe
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\bin\Debug\net8.0\Curso CSharp.deps.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\bin\Debug\net8.0\Curso CSharp.runtimeconfig.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\bin\Debug\net8.0\Curso CSharp.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\bin\Debug\net8.0\Curso CSharp.pdb
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\Curso CSharp.genruntimeconfig.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\ref\Curso CSharp.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\Curso CSharp.sourcelink.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\Curso CSharp.csproj.AssemblyReference.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso-C--master\obj\Debug\net8.0\Curso CS.C9F6DD56.Up2Date
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\Curso CSharp.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\Curso CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\Curso CSharp.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\Curso CSharp.AssemblyInfo.cs
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\Curso CSharp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\Curso CSharp.dll
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\refint\Curso CSharp.dll
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\Curso CSharp.pdb
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\bin\Debug\net8.0\Curso CSharp.exe
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\bin\Debug\net8.0\Curso CSharp.deps.json
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\bin\Debug\net8.0\Curso CSharp.runtimeconfig.json
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\bin\Debug\net8.0\Curso CSharp.dll
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\bin\Debug\net8.0\Curso CSharp.pdb
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\Curso CS.C9F6DD56.Up2Date
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\Curso CSharp.genruntimeconfig.cache
+C:\Users\pc\Desktop\Desktop\Renato\GitHub\Curso-C--master-New\obj\Debug\net8.0\ref\Curso CSharp.dll

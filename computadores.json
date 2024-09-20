@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Modelo": "Modelo A",
+    "Marca": "Marca X",
+    "Preco": 2500.00,
+    "Quantidade": 10
+  },
+  {
+    "Id": 2,
+    "Modelo": "Modelo B",
+    "Marca": "Marca Y",
+    "Preco": 3000.00,
+    "Quantidade": 5
+  },
+  {
+    "Id": 3,
+    "Modelo": "Modelo C",
+    "Marca": "Marca Z",
+    "Preco": 1500.00,
+    "Quantidade": 20
+  }
+]

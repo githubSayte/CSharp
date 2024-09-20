@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "ComputadorId": 1,
+    "ClienteId": 1,
+    "Quantidade": 1,
+    "Data": "2024-09-01T00:00:00"
+  },
+  {
+    "Id": 2,
+    "ComputadorId": 2,
+    "ClienteId": 2,
+    "Quantidade": 2,
+    "Data": "2024-09-10T00:00:00"
+  },
+  {
+    "Id": 3,
+    "ComputadorId": 3,
+    "ClienteId": 3,
+    "Quantidade": 3,
+    "Data": "2024-09-15T00:00:00"
+  }
+]
